@@ -1,0 +1,20 @@
+E:\New folder (2)\StudentInfoApp\StudentInfoApp\bin\Debug\StudentInfoApp.exe.config
+E:\New folder (2)\StudentInfoApp\StudentInfoApp\bin\Debug\StudentInfoApp.exe
+E:\New folder (2)\StudentInfoApp\StudentInfoApp\bin\Debug\StudentInfoApp.pdb
+E:\New folder (2)\StudentInfoApp\StudentInfoApp\obj\Debug\StudentInfoApp.csprojAssemblyReference.cache
+E:\New folder (2)\StudentInfoApp\StudentInfoApp\obj\Debug\StudentInfoApp.Form1.resources
+E:\New folder (2)\StudentInfoApp\StudentInfoApp\obj\Debug\StudentInfoApp.Properties.Resources.resources
+E:\New folder (2)\StudentInfoApp\StudentInfoApp\obj\Debug\StudentInfoApp.csproj.GenerateResource.cache
+E:\New folder (2)\StudentInfoApp\StudentInfoApp\obj\Debug\StudentInfoApp.csproj.CoreCompileInputs.cache
+E:\New folder (2)\StudentInfoApp\StudentInfoApp\obj\Debug\StudentInfoApp.exe
+E:\New folder (2)\StudentInfoApp\StudentInfoApp\obj\Debug\StudentInfoApp.pdb
+G:\seip\StudentInfoApp\StudentInfoApp\bin\Debug\StudentInfoApp.exe.config
+G:\seip\StudentInfoApp\StudentInfoApp\bin\Debug\StudentInfoApp.exe
+G:\seip\StudentInfoApp\StudentInfoApp\bin\Debug\StudentInfoApp.pdb
+G:\seip\StudentInfoApp\StudentInfoApp\obj\Debug\StudentInfoApp.csprojAssemblyReference.cache
+G:\seip\StudentInfoApp\StudentInfoApp\obj\Debug\StudentInfoApp.Form1.resources
+G:\seip\StudentInfoApp\StudentInfoApp\obj\Debug\StudentInfoApp.Properties.Resources.resources
+G:\seip\StudentInfoApp\StudentInfoApp\obj\Debug\StudentInfoApp.csproj.GenerateResource.cache
+G:\seip\StudentInfoApp\StudentInfoApp\obj\Debug\StudentInfoApp.csproj.CoreCompileInputs.cache
+G:\seip\StudentInfoApp\StudentInfoApp\obj\Debug\StudentInfoApp.exe
+G:\seip\StudentInfoApp\StudentInfoApp\obj\Debug\StudentInfoApp.pdb
